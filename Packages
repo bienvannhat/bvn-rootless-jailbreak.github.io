@@ -1,3 +1,21 @@
+Package: com.BIENVANNHAT.cccellularrate-rootless
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: Tweaks
+Maintainer: REPO CYDIA BVN
+Installed-Size: 616
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/com.BIENVANNHAT.cccellularrate-rootless_1.1-1_iphoneos-arm64.deb
+Size: 151436
+MD5sum: 74d726ab87f81f5c8e46ef0210ef8459
+SHA1: 6f8edc4d77a9afcd646c60fb0fa3a6a6b9eb5056
+SHA256: 288b88461b052a2e675e3d286fa7a65ec6416f3d8a3c0bff38631e52824af749
+SHA512: cddcc9b1a0738c6c6c95d8560795ac20674f911c98704c438e3ee9cffd21136ef7ec8fa5152dff65e0265eedc3e0568e607477359856e54ef66549d3be171d5d
+Description: Chuyển nhanh loại dữ liệu di động 2/3/4/5G hiện đang sử dụng qua Trung tâm điều khiển, chỉ những loại được hỗ trợ trong cài đặt thiết bị hiện tại mới được hiển thị
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Name: CCCellularRate-Rootless
+Author: Netskao
+
 Package: com.fahlnbg.sdks
 Architecture: iphoneos-arm
 Version: 13.7
