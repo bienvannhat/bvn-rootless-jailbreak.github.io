@@ -1,13 +1,16 @@
 Package: com.fahlnbg.sdks
 Architecture: iphoneos-arm
-Version: 1.0
-Maintainer: Biện Văn Nhật
+Version: 13.7
+Section: Tweaks
+Maintainer: fahlnbg
 Depends: mobilesubstrate
 Filename: ./debs/com.fahlnbg.sdks_13.7_iphoneos-arm.deb
 Size: 25766378
-MD5sum: c4ad92405fa65f141c29fbc882607aed 
+MD5sum: c4ad92405fa65f141c29fbc882607aed
 SHA1: 93821c753116fe689d3da758e2bbb676f75083e6
-Section: Tweaks
+SHA256: 5590eb59da32eba45fa363db3b06e6083bf9a8b9fcf0f0cf88a098d2535d038b
+SHA512: ebb7a84e3c65880ec2591575c2c91da31230755869d5dcf3efb8d0ba65a59684452ea545a5a1a97f9abcbfe76854c65b8358b6098ed7c55964976b306cd853ee
 Description: Sdks for Theosinstall
 Name: SDKS
 Author: fahlnbg
+
